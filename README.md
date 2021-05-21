@@ -6,8 +6,8 @@ Obs: Anotacoes feitas por mim obtidas na playlist do Data ICMC - [ver playlist a
 
 Projetos de Estudo (considerado assim porque trabalha com bases muito conhecidas e estudadas pelos Cientistas de Dados):
 
-- [x] Titanic - KNN feito
-- [ ] 
+- [x] Titanic - KNN and EDA
+- [ ] Titanic - Trees and Random Forests
 
 Links uteis:
 
