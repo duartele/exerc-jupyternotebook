@@ -3,6 +3,7 @@ From simple codes to basics projects
 Arquivo Primeiros Comandos tem uma pequena revisao de Python e das Bibliotecas Numpy, Pandas, Matplotlib and Scikit-learn
 Arquivo Exerc Pandas contem exercicios do mini curso de Pandas do Kaggle
 Adicionando arquivos provenientes de mini cursos do Kaggle
+Adicionado Geospatial course
 Obs: Anotacoes feitas por mim obtidas na playlist do Data ICMC - [ver playlist aqui](https://www.youtube.com/watch?v=qmhrfxVTXWI&list=PLFE-LjWAAP9SfEuLXf3qrpw4szKWjlYq9&index=8)
 
 
